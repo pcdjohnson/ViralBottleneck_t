@@ -2,8 +2,8 @@
 ## Description
 This package is used for estimating viral transmission bottleneck size using different methods.
 The main steps to use the program are:
-1. Create Transmission Object
-2. Calculate Transmission bottleneck size 
+1. Create the transmission object
+2. Calculate the transmission bottleneck size 
    
 There are the he [manual](manual_and_tutorial/ViralBottleneck_manual_0.1.0.pdf) and [turtorial](manual_and_tutorial/Tutorial.pdf).
 
