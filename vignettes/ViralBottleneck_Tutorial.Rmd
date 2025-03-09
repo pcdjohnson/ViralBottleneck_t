@@ -39,7 +39,7 @@ kable(Example_TansmissionPairs)
 
 ```
 
-Note: Do not put the "-" in name of sample.
+Note: Do not use "-" in the sample name, because this character is used to link the donor and recipient sample names to create the transmission pair ID.  
 
 After making sure the sample files all exist according to the transmission pairs, start to create transmission object. example code:
 
